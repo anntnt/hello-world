@@ -5,3 +5,9 @@ I'm ann
  hallo
 ### A third-level heading
 The background color is 	`#RRGGBB` for light mode and `#000000` for dark mode.
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
